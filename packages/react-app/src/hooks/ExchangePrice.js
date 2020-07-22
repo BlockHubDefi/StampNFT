@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import { usePoller } from ".";
 import { ethers } from "ethers";
-import { MAINNET_ID, addresses, abis } from "@uniswap-v1-app/contracts";
+import { MAINNET_ID, addresses, abis } from "@blockhubdefi-stampit/contracts";
 
 export default function useExchangePrice(mainnetProvider,pollTime) {
 

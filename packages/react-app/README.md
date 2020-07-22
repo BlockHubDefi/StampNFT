@@ -1,4 +1,4 @@
-## @uniswap-v1-app/react-app
+## @blockhubdefi-stampit/react-app
 
 This package is a fork of the default template provided by [Create React App](https://github.com/facebook/create-react-app).
 
